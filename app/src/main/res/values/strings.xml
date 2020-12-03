@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CarPrice</string>
+    <string name="cityTextViewText">BERLIN</string>
+    <string name="dateTextViewText">15 Aug, 11:45 - 20 Aug, 12:00</string>
+    <string name="Mini">Mini</string>
+    <string name="MiniPrice">€134.00</string>
+    <string name="Compact">Compact</string>
+    <string name="CompactPrice">€122.00</string>
+    <string name="Economy">Economy</string>
+    <string name="EconomyPrice">€134.00</string>
+    <string name="KiaCeedTextViewText">Kia Ceed</string>
+    <string name="ToyotaAygoTextViewText">Toyota Aygo</string>
+    <string name="KiaCeedDayPriceTextViewText">€21.00/day</string>
+    <string name="ToyotaAygoDayPriceTextViewText">€23.00/day</string>
+    <string name="chair">4</string>
+    <string name="door">2-3</string>
+    <string name="per">M</string>
+
+</resources>
